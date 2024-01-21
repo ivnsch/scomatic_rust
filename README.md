@@ -2,6 +2,14 @@
 
 Port experiment of https://github.com/cortes-ciriano-lab/SComatic
 
+# Setup
+
+```
+gunzip -k test/chr10.fa.gz
+```
+
+# Steps
+
 [Step 1:](https://github.com/cortes-ciriano-lab/SComatic/blob/0f799b949ff1f32641bd6b7a3dde9a0ceb886aec/docs/SComaticExample.md#step-1-splitting-alignment-file-in-cell-type-specific-bams)
 
 ```
